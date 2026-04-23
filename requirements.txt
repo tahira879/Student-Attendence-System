@@ -5,3 +5,4 @@ pandas
 pillow
 face-recognition
 dlib
+cv2
