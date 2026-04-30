@@ -1,5 +1,5 @@
 import streamlit as st
-import face_recognition
+#import face_recognition
 import numpy as np
 import sqlite3
 import os
