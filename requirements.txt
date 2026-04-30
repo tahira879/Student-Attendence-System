@@ -1,11 +1,10 @@
 streamlit
-opencv-python
-opencv-contrib-python
 numpy
 pandas
 pillow
-dlib
+opencv-python
 face-recognition
+dlib
 cmake
 python-dateutil
 openpyxl
